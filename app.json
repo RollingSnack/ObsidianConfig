@@ -1,0 +1,27 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "useTab": false,
+  "vimMode": false,
+  "emacsyKeys": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": true,
+  "lineWrap": true,
+  "attachmentFolderPath": "./",
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false
+}
